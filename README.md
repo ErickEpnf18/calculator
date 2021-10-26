@@ -1,2 +1,2 @@
 #### Project in Java
-###### Calculator
+###### Calculator 🧮
